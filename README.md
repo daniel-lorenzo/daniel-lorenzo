@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning mechatronics engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
-      https://www.facebook.com/lorenzo.daniel
-      https://www.instagram.com/daniel.antonio.lorenzo/
+-   https://www.facebook.com/lorenzo.daniel
+-   https://www.instagram.com/daniel.antonio.lorenzo/
 
 <!---
 daniel-lorenzo/daniel-lorenzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
