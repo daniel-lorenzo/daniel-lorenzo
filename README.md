@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning mechatronics engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
--   https://www.facebook.com/lorenzo.daniel
 -   https://www.instagram.com/daniel.antonio.lorenzo/
 -   daniel.antonio.lorenzo@gmail.com
 
